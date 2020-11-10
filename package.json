@@ -1,0 +1,23 @@
+{
+  "name": "09Node.js-Professional-README-Generator",
+  "version": "1.0.0",
+  "description": "09 Node.js Homework: Professional README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamezsal/09Node.js-Professional-README-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamezsal/09Node.js-Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/gamezsal/09Node.js-Professional-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
