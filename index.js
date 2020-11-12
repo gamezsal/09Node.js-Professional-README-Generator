@@ -39,25 +39,25 @@ inquirer
     console.log("response", response);
 
     const code = `
-  ## Project Title: 
+  ## Project Title
     
-    #Tittle: ${response.projectname}
+    Title: ${response.projectname}
 
   ## Installation
 
-    #Install: ${response.installation}
+    Install: ${response.installation}
 
   ## Files
 
-    #Files Included: ${response.files}
+    Files Included: ${response.files}
 
   ## Contributing
 
-    1. Fork it!  #Github Link: ${response.project}
+    Fork it! Github Link: ${response.project}
 
   ## Contact Info
 
-    #Github User Link: ${response.account}
+    Github User Link: ${response.account}
 `
 fs.writeFile("README.md", code, (err) =>
       err ? console.log(err) : console.log("Success!")

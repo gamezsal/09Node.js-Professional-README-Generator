@@ -1,20 +1,20 @@
 
-  ## Project Title: 
+  ## Project Title
     
-    #Tittle: Readme Generator
+    Title: Professional README Generator
 
   ## Installation
 
-    #Install: You may fork this project or clone it by doing so you will get the whole installation package.
+    Install: See attached video link for installation instruction. 
 
   ## Files
 
-    #Files Included: index.js, package-lock.json, package.json, node_modules. 
+    Files Included: https://github.com/gamezsal/09Node.js-Professional-README-Generator
 
   ## Contributing
 
-    1. Fork it!  #Github Link: https://github.com/gamezsal/09Node.js-Professional-README-Generator
+    Fork it! Github Link: https://github.com/gamezsal/09Node.js-Professional-README-Generator
 
   ## Contact Info
 
-    #Github User Link: https://github.com/gamezsal
+    Github User Link: https://github.com/gamezsal
