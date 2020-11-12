@@ -1,20 +1,20 @@
 
-    # Project Name Dashbaord
+  ## Project Title: 
+    
+    #Tittle: Readme Generator
 
   ## Installation
 
-    Install: run and install
+    #Install: You may fork this project or clone it by doing so you will get the whole installation package.
 
   ## Files
 
-    Files Included: js, html
+    #Files Included: index.js, package-lock.json, package.json, node_modules. 
 
   ## Contributing
 
-    1. Fork it!
-
-    Github Link: github\io
+    1. Fork it!  #Github Link: https://github.com/gamezsal/09Node.js-Professional-README-Generator
 
   ## Contact Info
 
-    Githug User Link: gamezsal
+    #Github User Link: https://github.com/gamezsal

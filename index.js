@@ -39,7 +39,9 @@ inquirer
     console.log("response", response);
 
     const code = `
-    ## Project Name: ${response.projectname}
+  ## Project Title: 
+    
+    #Tittle: ${response.projectname}
 
   ## Installation
 
@@ -55,7 +57,7 @@ inquirer
 
   ## Contact Info
 
-    #Githug User Link: ${response.account}
+    #Github User Link: ${response.account}
 `
 fs.writeFile("README.md", code, (err) =>
       err ? console.log(err) : console.log("Success!")
