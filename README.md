@@ -1,20 +1,20 @@
 
-  ## Project Title
+# Project Name
+
+* **Title:** 09 Node.js Homework: Professional README Generator
     
-    Title: Professional README Generator
+## Installation
 
-  ## Installation
-
-    Install: See attached video link for installation instruction. 
-
-  ## Files
-
-    Files Included: https://github.com/gamezsal/09Node.js-Professional-README-Generator
-
-  ## Contributing
-
-    Fork it! Github Link: https://github.com/gamezsal/09Node.js-Professional-README-Generator
-
-  ## Contact Info
-
-    Github User Link: https://github.com/gamezsal
+* **Installation Instruction:** The application will be invoked by using the following command: node index.js. See the following link for a recorded video for instructions.
+    
+## Files
+    
+* **Files Included:**  Node_modules, index.js, package-lock.json, package,json.
+   
+## Contributing
+   
+* **Github Repository Link:** https://github.com/gamezsal/09Nodejs-Professional-README-Generator
+    
+## Contact Information
+    
+* **Github User Link:** https://github.com/gamezsal
