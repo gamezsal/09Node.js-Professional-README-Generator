@@ -5,7 +5,7 @@
     
 ## Installation
 
-* **Installation Instructions:** The application will be invoked by using the following command, node index.js. See the following link for a recorded video for instructions.
+* **Installation Instructions:** The application will be invoked by using the following command, node index.js. See the following link for a recorded video for instructions. https://drive.google.com/file/d/1E4vXEVELehpmkZznfkY7QDg91fQt57Ty/view
     
 ## Files
     
