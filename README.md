@@ -5,7 +5,7 @@
     
 ## Installation
 
-* **Installation Instruction:** The application will be invoked by using the following command: node index.js. See the following link for a recorded video for instructions.
+* **Installation Instructions:** The application will be invoked by using the following command, node index.js. See the following link for a recorded video for instructions.
     
 ## Files
     
@@ -13,7 +13,7 @@
    
 ## Contributing
    
-* **Github Repository Link:** https://github.com/gamezsal/09Nodejs-Professional-README-Generator
+* **Github Repository Link:** https://github.com/gamezsal/09Node.js-Professional-README-Generator
     
 ## Contact Information
     
